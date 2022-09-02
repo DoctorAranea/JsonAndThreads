@@ -1,0 +1,12 @@
+D:\Programs\!ShitPrograms\JSONTestTask\JSONTestTask\JSONTestTask\bin\Debug\JSONTestTask.exe.config
+D:\Programs\!ShitPrograms\JSONTestTask\JSONTestTask\JSONTestTask\bin\Debug\JSONTestTask.exe
+D:\Programs\!ShitPrograms\JSONTestTask\JSONTestTask\JSONTestTask\bin\Debug\JSONTestTask.pdb
+D:\Programs\!ShitPrograms\JSONTestTask\JSONTestTask\JSONTestTask\bin\Debug\Newtonsoft.Json.dll
+D:\Programs\!ShitPrograms\JSONTestTask\JSONTestTask\JSONTestTask\obj\Debug\JSONTestTask.csprojAssemblyReference.cache
+D:\Programs\!ShitPrograms\JSONTestTask\JSONTestTask\JSONTestTask\obj\Debug\JSONTestTask.Form1.resources
+D:\Programs\!ShitPrograms\JSONTestTask\JSONTestTask\JSONTestTask\obj\Debug\JSONTestTask.Properties.Resources.resources
+D:\Programs\!ShitPrograms\JSONTestTask\JSONTestTask\JSONTestTask\obj\Debug\JSONTestTask.csproj.GenerateResource.cache
+D:\Programs\!ShitPrograms\JSONTestTask\JSONTestTask\JSONTestTask\obj\Debug\JSONTestTask.csproj.CoreCompileInputs.cache
+D:\Programs\!ShitPrograms\JSONTestTask\JSONTestTask\JSONTestTask\obj\Debug\JSONTestTask.csproj.CopyComplete
+D:\Programs\!ShitPrograms\JSONTestTask\JSONTestTask\JSONTestTask\obj\Debug\JSONTestTask.exe
+D:\Programs\!ShitPrograms\JSONTestTask\JSONTestTask\JSONTestTask\obj\Debug\JSONTestTask.pdb
